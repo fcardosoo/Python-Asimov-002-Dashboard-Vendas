@@ -41,5 +41,5 @@ Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criaçã
 ### 🤝 Suporte/Contato
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/fcardosoo/)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fabiano#7097)
+[![LinkedIn Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcardosoo/)
+
