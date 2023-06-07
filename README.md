@@ -1,7 +1,8 @@
+[![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
 ![PROJETO SALES_site_dark](https://user-images.githubusercontent.com/103602522/175695715-76b513e9-cd4d-4927-9681-a815555d88cf.jpg)
 
 
-# Python-Asimov-002-Dashboard-Vendas
+<H1> Dashboard Vendas</H1>
 
 Dashboard para análise de métricas e vendas de um call center feito com Python.
 
@@ -40,14 +41,5 @@ Para aprender mais sobre como desenvolver projetos de Data Science, AI, Criaçã
 ### 🤝 Suporte/Contato
 
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551981830833)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asimov.academy/)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W2Nc7bxvk7)
-
-✉ contato@asimov.academy
-
-
-
-
-<p align="center">Copyright © 2022 Asimov Academy</p>
-
+[![LinkedIn Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/fcardosoo/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Fabiano#7097)
